@@ -25,4 +25,4 @@ else:
                 if model_to_guess == user_model:
                     print("Has ganado el dragon de msi")
                 else:
-                    user_model = str(input("Mira que eres subnormal, como no vas a saber su puto procesador"))
+                    user_model = str(input("Mira que eres subnormal,  como no vas a saber su puto procesador"))
